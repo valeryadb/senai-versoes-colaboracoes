@@ -1,4 +1,4 @@
-Solução de conflitos
+Conflitos
 
 <HTML>
    <HEAD><TITLE>ATIVIDADE DE VERSIONAMENTO</TITLE></HEAD>
